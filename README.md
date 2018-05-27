@@ -22,5 +22,5 @@ Download or clone the repository and open index.html file.
 
 
 ## References:
-JavaScript Testing with Udacity [course](https://www.udacity.com/course/ud549)
-Starting repository [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader)
+* JavaScript Testing with Udacity [course](https://www.udacity.com/course/ud549)
+* Starting repository [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader)
